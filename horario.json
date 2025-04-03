@@ -1,6 +1,226 @@
 [
   {
-    "name": "CLASSIC☆STARS",
+    "name": "Ballpark de Tsukamaete!",
+    "day": "domingo",
+    "status": "Por estrenar",
+    "link": "/anime/ballpark-de-tsukamaete",
+    "image": "ballpark-de-tsukamaete.webp",
+    "airing": false,
+    "releaseDate": "2025-04-06",
+    "description": "¿Soy tu tipo, Onii-san~?\n\n¡Un día, en un estadio de béisbol, se acerca una gyaru que vende cerveza! Pero en realidad es una chica súper inocente y de buen corazón... ♡\n\n¡El escenario es un estadio de béisbol de una liga profesional! Mucha gente se reúne allí todos los días para trabajar y reír juntos, y allí nace el drama humano: ¡es casi como un pueblo!\n\nEntonces, ¿por qué no convertirse en un \"residente\" de ese pueblo?\n\n¡Una comedia romántica llena de risas y lágrimas, dedicada a todos los involucrados en el béisbol profesional!"
+  },
+  {
+    "name": "Aru Majo ga Shinu Made",
+    "day": "lunes",
+    "status": "Por estrenar",
+    "link": "/anime/aru-majo-ga-shinu-made",
+    "image": "aru-majo-ga-shinu-made.webp",
+    "airing": false,
+    "releaseDate": "2025-04-01",
+    "description": "En el decimoséptimo cumpleaños de Meg, se entera de que solo le queda un año de vida. Su mentor, la Bruja Eterna, Fausto, explica que está maldita y que la única forma de salvarse es hacer crecer una semilla de vida con mil lágrimas de alegría. Por supuesto, esas lágrimas no son fáciles de conseguir. Cuando Meg comienza su búsqueda, se ve arrastrada a las vidas de sus amigos y vecinos de una manera que nunca imaginó. Al compartir sus cargas y usar su magia para consolarlos, aprende cuán preciosos pueden ser esos momentos de conexión incluso frente a la muerte."
+  },
+  {
+    "name": "Your Forma",
+    "day": "martes",
+    "status": "Por estrenar",
+    "link": "/anime/your-forma",
+    "image": "your-forma.webp",
+    "airing": false,
+    "releaseDate": "2025-04-02",
+    "description": "En un 2023 alternativo, Your Forma, una tecnología milagrosa de \"hilo inteligente\" desarrollada inicialmente para tratar un brote masivo de encefalitis viral, se ha convertido en una parte integral de la vida diaria. Pero estos convenientes dispositivos vienen con un inconveniente invasivo: registran cada vista, sonido e incluso emoción que experimentan sus usuarios.\n\nPara el investigador electrónico Echika Hieda, sumergirse en los recuerdos de las personas a través de Your Forma y buscar evidencia para resolver los crímenes más difíciles es parte del trabajo de un día. El problema es que es tan buena en lo que hace que sus asistentes literalmente se fríen los sesos tratando de seguirle el ritmo. Después de poner demasiados ayudantes en el hospital, los altos mandos finalmente proporcionan a Echika un compañero de su nivel, un androide brillante pero descarado llamado Harold Lucraft. ¿Este dúo improbable tiene lo que se necesita para resolver sus sospechas mutuas y evitar que una infección tecnológica mortal se extienda por todo el mundo antes de que sea demasiado tarde?"
+  },
+  {
+    "name": "Haite Kudasai, Takamine-san",
+    "day": "martes",
+    "status": "Por estrenar",
+    "link": "/anime/haite-kudasai-takamine-san",
+    "image": "haite-kudasai-takamine-san.webp",
+    "airing": false,
+    "releaseDate": "2025-04-02",
+    "description": "Shirota ya ha tenido tiempo de sobra para adaptarse a la vida como miembro del armario de Takamine, pero cuando Akanishi, el estudiante de último año más popular de la escuela, se acerca a ella y la invita a salir, ¡no puede evitar ponerse celoso! Intenta calmarse, pero después de escuchar a Akanishi hablar de sus desagradables planes para ligar con Takamine, empieza a entrar en pánico, preocupado de que Takamine caiga presa de los encantos de su nuevo rival..."
+  },
+  {
+    "name": "Kanpekisugite Kawaige ga Nai to Konyaku Haki sareta Seijo wa Ringoku ni Urareru",
+    "day": "martes",
+    "status": "Por estrenar",
+    "link": "/anime/kanpekisugite-kawaige-ga-nai-to-konyaku-haki-sareta-seijo-wa-ringoku-ni-urareru",
+    "image": "kanpekisugite-kawaige-ga-nai-to-konyaku-haki-sareta-seijo-wa-ringoku-ni-urareru.webp",
+    "airing": false,
+    "releaseDate": "2025-04-02",
+    "description": "La familia de Philia ha producido santos durante generaciones. No es de extrañar que sea conocida como la mayor santa de todos los tiempos y que esté a punto de casarse con el segundo príncipe, Julius. Lo que nadie espera es que Julius cancele el compromiso, alegando que la perfección de Philia la hace carente de encanto y desagradable. Para colmo de males, Philia es enviada a un país vecino a cambio de oro y recursos, lo que la obliga a abandonar su tierra natal.\n\nA pesar de prepararse para el maltrato, Philia encuentra una cálida bienvenida en su nueva ciudad, donde pone en práctica sus habilidades de santa erigiendo barreras contra monstruos y curando epidemias. Pero incluso mientras florece en su nueva vida, ¡su tierra natal está bajo amenaza de destrucción!"
+  },
+  {
+    "name": "MIRU: Watashi no Mirai",
+    "day": "martes",
+    "status": "Por estrenar",
+    "link": "/anime/miru-watashi-no-mirai",
+    "image": "miru-watashi-no-mirai.webp",
+    "airing": false,
+    "releaseDate": "2025-04-02",
+    "description": "\"Confrontación y Armonía entre el Hombre y la Naturaleza\"\n\nEl protagonista navegará desafíos y crecimiento personal, esforzándose por preservar el entorno requerido para nuestra existencia, mientras que la presencia de robots se representará a lo largo de su viaje."
+  },
+  {
+    "name": "Saikyou no Ousama, Nidome no Jinsei wa Nani o Suru?",
+    "day": "martes",
+    "status": "Por estrenar",
+    "link": "/anime/saikyou-no-ousama-nidome-no-jinsei-wa-nani-o-suru",
+    "image": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-o-suru.webp",
+    "airing": false,
+    "releaseDate": "2025-04-02",
+    "description": "El rey Grey es un gobernante extraordinario con un reinado próspero y, sin embargo... la opulencia y el éxito no pueden enterrar el vacío y la soledad. Sin embargo, su tiempo como rey llega a un final abrupto y reencarna como Arthur Leywin, un bebé nacido en un mundo de magia y monstruos. Equipado con recuerdos de su vida anterior y el deseo de proteger la nueva calidez que lo rodea, Art comienza su viaje para convertirse en un guerrero fuerte una vez más. Entrenamiento con espada, formación de núcleo de maná, estudios de magia... ¡Art lo hace todo para ser lo más poderoso posible! Pero, ¿será suficiente para repeler las fuerzas peligrosas que amenazan su segunda oportunidad en la vida...?"
+  },
+  {
+    "name": "Isshun de Chiryou shiteita noni Yakutatazu to Tsuihou sareta Tensai Chiyushi, Yami Healer toshite Tanoshiku Ikiru",
+    "day": "miercoles",
+    "status": "Por estrenar",
+    "link": "/anime/isshun-de-chiryou-shiteita-no-yakutatazu-to-tsuihou-sareta-tensai-chiyushi",
+    "image": "isshun-de-chiryou-shiteita-no-yakutatazu-to-tsuihou-sareta-tensai-chiyushi.webp",
+    "airing": false,
+    "releaseDate": "2025-04-03",
+    "description": "La vida no ha sido amable con Zenos. Nació en los barrios bajos y su origen pobre le ha negado casi todas las oportunidades. Después de un encuentro con un curandero, se lanza a estudiar para convertirse en uno y finalmente tiene suerte cuando un aventurero invita a Zenos a su grupo. Zenos está emocionado, tan emocionado, de hecho, que está dispuesto a soportar que sus compañeros de equipo lo traten como basura. No aprecian sus talentos y finalmente lo echan a la calle, alegando que ya no les es útil. Ahora, sin dinero y sin opciones, Zenos decide poner en práctica sus habilidades autodidactas en otro lugar y abre una clínica subterránea. Rápidamente se corre la voz de que el brillante curandero está haciendo magia increíble en las oscuras entrañas de la ciudad. Incluso el palacio real se está dando cuenta... ¿Podrá Zenos superar las probabilidades y forjarse una vida en un mundo que le escupe en la cara? ¿Y podrá salvar las vidas de los pacientes que terminan en su puerta en el proceso?"
+  },
+  {
+    "name": "WIND BREAKER second season",
+    "day": "miercoles",
+    "status": "Por estrenar",
+    "link": "/anime/wind-breaker-second-season",
+    "image": "wind-breaker-second-season.webp",
+    "airing": false,
+    "releaseDate": "2025-04-03",
+    "description": "Haruka Sakura no quiere tener nada que ver con los débiles, solo le interesan los más fuertes de los fuertes. Acaba de comenzar en Furin High School, una escuela de degenerados conocida solo por su fuerza de pelea, fuerza que usan para proteger su ciudad de cualquiera que lo desee mal. Pero Haruka no está interesado en ser un héroe o ser parte de ningún tipo de equipo, ¡solo quiere luchar para llegar a la cima!"
+  },
+  {
+    "name": "Rock wa Lady no Tashinami deshite",
+    "day": "miercoles",
+    "status": "Por estrenar",
+    "link": "/anime/rock-wa-lady-no-tashinami-deshite",
+    "image": "rock-wa-lady-no-tashinami-deshite.webp",
+    "airing": false,
+    "releaseDate": "2025-04-03",
+    "description": "Tiene lugar en una escuela femenina donde se reúnen chicas jóvenes, hermosas y femeninas de todo el país. Una chica llamada Ririsa Suzunomiya, se convirtió en hija de un magnate inmobiliario después de que su madre se volvió a casar, abandona su guitarra y su amor por la música rock para actuar como una joven rica. Pero su pasión por el rock se reaviva cuando conoce a una baterista altamente calificada, que asiste a la misma escuela."
+  },
+  {
+    "name": "Bye Bye, Earth second season",
+    "day": "jueves",
+    "status": "Por estrenar",
+    "link": "/anime/bye-bye-earth-second-season",
+    "image": "bye-bye-earth-second-season.webp",
+    "airing": false,
+    "releaseDate": "2025-04-04",
+    "description": "La historia se desarrolla en una Tierra donde todas las personas toman la forma de animales. Bell es la única niña en el mundo sin las características de los animales. Ella se propone descubrir si hay otros seres como ella. Bell empuña una espada y se involucra en las luchas entre las ciudades y el mundo exterior."
+  },
+  {
+    "name": "Enen no Shouboutai San no Shou",
+    "day": "jueves",
+    "status": "Por estrenar",
+    "link": "/anime/enen-no-shouboutai-san-no-shou",
+    "image": "enen-no-shouboutai-san-no-shou.webp",
+    "airing": false,
+    "releaseDate": "2025-04-04",
+    "description": "De pronto, la gente comenzó a quemarse, sin motivo y sin explicación. En medio de la calle, sentados en sus sillones o comiendo, estallaban en llamas. Shinra Kusakabe se apresura para no llegar tarde a su primer día de trabajo, pero hay un incendio en la estación del tren que debe abordar. Llegan los bomberos para apagar el fuego, pero no son bomberos normales, son del cuerpo especial. Ahí comienza el camino de Shinra para cumplir una promesa que hizo hace mucho tiempo, y en cada oportunidad demostrará, gracias a su “habilidad”, que un héroe está hecho de algo más que deseos o promesas: el “homura bito” no es un fuego que se pueda apagar sólo con agua."
+  },
+  {
+    "name": "Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)",
+    "day": "jueves",
+    "status": "Por estrenar",
+    "link": "/anime/danjo-no-yuujou-wa-seiritsu-suru",
+    "image": "danjo-no-yuujou-wa-seiritsu-suru.webp",
+    "airing": false,
+    "releaseDate": "2025-04-04",
+    "description": "En una escuela secundaria rural, un chico y una chica prometen una amistad eterna, y pasan dos años sin ningún progreso en su relación hasta que están destinados a un sueño...! Himari Inuzuka, una chica alegre que aún no ha encontrado su primer amor, y Yu Natsume, un chico pasivo que ama las flores, siguen siendo mejores amigos en su propio club de jardinería en su segundo año de secundaria.\n\n\"Si Yu no puede casarse, tendré que asumir la responsabilidad por ti\". \"Después de que Himari dijo eso, estoy pasando por un momento difícil porque tu hermano comenzó a llamarme, '¡Mi cuñado!'\"\n\nSin embargo, cuando Yu se reencuentra con su primer amor del pasado, ¡las ruedas de su relación de repente se vuelven locas! ¿Será capaz Himari, que ha descubierto el amor, de liberarse de su \"amigo ideal\"?"
+  },
+  {
+    "name": "Nazotoki wa Dinner no Ato de",
+    "day": "jueves",
+    "status": "Por estrenar",
+    "link": "/anime/nazotoki-wa-dinner-no-ato-de",
+    "image": "nazotoki-wa-dinner-no-ato-de.webp",
+    "airing": false,
+    "releaseDate": "2025-04-04",
+    "description": "Reiko Hosho es la única hija del director ejecutivo de una importante empresa, “Hosho Group”, conocida en todo el mundo. Reiko oculta su verdadera identidad tras su trabajo diurno como agente de policía novata y, cada vez que se enfrenta a un caso complejo, vuelve a casa con Kageyama, su mayordomo. Como es un perfeccionista, Kageyama es impecable a la hora de servir comidas completas, desde los aperitivos hasta el postre. Señala con dureza la falta de razonamiento por parte de Reiko haciendo comentarios mordaces, pero manteniendo el comentario a una delgada línea de ser ofensivo."
+  },
+  {
+    "name": "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita ~Sono ni~ second season",
+    "day": "viernes",
+    "status": "Por estrenar",
+    "link": "/anime/slime-taoshite-300-nen-second-season",
+    "image": "slime-taoshite-300-nen-second-season.webp",
+    "airing": false,
+    "releaseDate": "2025-04-05",
+    "description": "Una muy común oficinista, Azusa Aizawa murió por exceso de trabajo.\n\nPor esa razón, decidí vivir una vida pacífica en una casa en la montaña como una inmortal bruja de una apariencia de 17 años.\n\nMi principal fuente de ingresos es derrotar slimes que habitan cerca para adquirir piedras mágicas, vendiéndolas en el Gremio de la aldea. Además, hago hierbas medicinales, soy apreciada como \"La Bruja de la Meseta\" y vivo con respeto y confianza.\n\nSin embargo, como resultado de continuar su vida venciendo a Slimes durante 300 años, los valores de experiencia se acumularon demasiado, y sin saberlo se convirtió en la bruja más fuerte del mundo de nivel 99.\n\nLa bruja de nivel 99 ahora trabaja junto a la aldea con su aprendiz una chica dragón, mientras que ayuda a todos en la aldea."
+  },
+  {
+    "name": "Anne Shirley",
+    "day": "viernes",
+    "status": "Por estrenar",
+    "link": "/anime/anne-shirley",
+    "image": "anne-shirley.webp",
+    "airing": false,
+    "releaseDate": "2025-04-05",
+    "description": "Cuando la huérfana Anne es adoptada por Marilla y Matthew Cuthbert, su increíble imaginación y su hermoso corazón, cultivados a lo largo de once años de dificultades, cambian los corazones de quienes la rodean. Esta es una historia llena de amor que retrata las pequeñas alegrías de la vida a través de las emociones de las personas y la belleza de la naturaleza."
+  },
+  {
+    "name": "GUILTY GEAR STRIVE: DUAL RULERS",
+    "day": "viernes",
+    "status": "Por estrenar",
+    "link": "/anime/guilty-gear-strive-dual-rulers",
+    "image": "guilty-gear-strive-dual-rulers.webp",
+    "airing": false,
+    "releaseDate": "2025-04-05",
+    "description": "Tras el declive de los otrora robustos campos de la ciencia y la tecnología, una nueva fuente de energía conocida como magia impulsa la era moderna. La humanidad crea armas biológicas prohibidas: los Gears. Estos Gears finalmente se alzan contra la humanidad en una rebelión. Aunque logran vencer en la lucha por la supervivencia conocida como las Cruzadas, las pérdidas de la humanidad son tan grandes que, incluso después de varias décadas, sus heridas emocionales siguen sin sanar por completo. Sin Kiske, hijo de un humano y un Gear, se dirige a la ceremonia de boda de su padre Ky y su madre Dizzy. Su boda rompe el tabú definitivo: la unión entre un humano y un Gear. Incluso con el mundo en paz, tardó muchos años en realizarse una ceremonia así. A pesar de la compleja gama de emociones que la rodea, la ceremonia es recibida con bendiciones. Cuando, de repente, aparece una misteriosa chica… La niña predestinada que hereda la sangre Gear, y la misteriosa chica que desprecia a los Gears. Su encuentro conmocionaría al mundo."
+  },
+  {
+    "name": "YAIBA",
+    "day": "viernes",
+    "status": "Por estrenar",
+    "link": "/anime/yaiba",
+    "image": "yaiba.webp",
+    "airing": false,
+    "releaseDate": "2025-04-05",
+    "description": "Yaiba Kurogane es un niño pequeño que quiere convertirse en el mejor samurái. Desde muy pequeño se entrenó en una remota isla con su padre, Kenjuro Kurogane. Para aprender a ser un verdadero samurái, regresa a casa junto con sus mascotas, un tigre llamado Kagetora y un buitre llamado Shonosuke. Es allí donde conoce al rival de su padre y a su hija, Sayaka Mine. Un día, Yaiba se acerca al instituto de Sayaka y conoce a Takeshi Onimaru, capitán del equipo de kendō del instituto, a quien reta para demostrar quien es el más fuerte. Yaiba gana el combate.\n\nTakeshi, cegado por su derrota frente a Yaiba, decide usar una espada legendaria, herencia de su familia, en la cual está encerrado el espíritu del Dios del Viento, dejándose poseer por él y convirtiéndose así en un demonio. Yaiba es incapaz de hacer frente a los nuevos poderes de Takeshi y es fácilmente derrotado. Por ello, decide marchar al monte en busca de la espada del Dios del Trueno para contrarrestar a Takeshi. Sin embargo, en lugar de acabar bajo el control del Dios como su rival, Yaiba decide dominar él a la bestia y así controlar su poder. Gracias el entrenamiento que le brinda el legandario samurái Musashi Miyamoto, Yaiba logrará controlar la espada.\n\nSiguiendo las aventuras de Yaiba aparecen más esferas de poder diferentes que acopladas al agujero de su espada del Dios del Trueno le proporcionarán la ayuda necesaria para poder encarar nuevos retos y derrotar a enemigos más poderosos, hasta que finalmente consiga la esfera definitiva, la del \"Dios Dragón\"."
+  },
+  {
+    "name": "Shoushimin second season",
+    "day": "viernes",
+    "status": "Por estrenar",
+    "link": "/anime/shoushimin-second-season",
+    "image": "shoushimin-second-season.webp",
+    "airing": false,
+    "releaseDate": "2025-04-05",
+    "description": "La historia se centra en Jōgorō Kobato, que desea vivir una vida tranquila y normal después de una experiencia dolorosa. Él y Yuki Osanai forman una \"relación mutuamente beneficiosa\", ya que Yuki también quiere lo mismo. Comienzan la escuela secundaria como compañeros de clase con el plan de pasar sus días tranquilos como gente común, pero desafortunadamente siguen envueltos en misterios y desastres que suceden uno tras otro."
+  },
+  {
+    "name": "Kowloon Generic Romance",
+    "day": "viernes",
+    "status": "Por estrenar",
+    "link": "/anime/kowloon-generic-romance",
+    "image": "kowloon-generic-romance.webp",
+    "airing": false,
+    "releaseDate": "2025-04-05",
+    "description": "Golpeados por una realidad que no deseaban, algunos se preguntan: \"¿No existo en este mundo?\" Pueden confirmar su propia presencia y la de Kowloon, e incluso pueden oler y saborear... En esta ciudad llena de secretos, Kujirai duda de su propia existencia. Cada día es doloroso, pero ¿será diferente si Kudou está a su lado?"
+  },
+  {
+    "name": "Kuroshitsuji: -Midori no Majo-hen-",
+    "day": "viernes",
+    "status": "Por estrenar",
+    "link": "/anime/kuroshitsuji-midori-no-majo-hen",
+    "image": "kuroshitsuji-midori-no-majo-hen.webp",
+    "airing": false,
+    "releaseDate": "2025-04-05",
+    "description": "Sebastian y Ciel se dirigen a Alemania, donde la reina les ordena investigar los misteriosos sucesos de muerte que se producen allí. Una terrible maldición cae sobre Sebastian y Ciel, mientras buscan la verdad sobre el Bosque de los Hombres Lobo, donde cualquiera que lo pise será condenado a muerte."
+  },
+  {
+    "name": "Katainaka no Ossan, Kensei ni Naru",
+    "day": "viernes",
+    "status": "Por estrenar",
+    "link": "/anime/katainaka-no-ossan-kensei-ni-naru",
+    "image": "katainaka-no-ossan-kensei-ni-naru.webp",
+    "airing": false,
+    "releaseDate": "2025-04-05",
+    "description": "Beryl Gardinant, un autoproclamado \"viejo humilde\", es instructor de espada en su dojo en un pueblo rural apartado. En sus años de juventud, soñaba con la gloria como maestro espadachín, pero esos días quedaron atrás. De repente, recibe la visita de un famoso ex alumno que le trae una noticia trascendental: ¡ha sido designado instructor especial de los caballeros de la Orden Liberion! Con su vida ahora patas arriba, Beryl viaja a la capital y se reúne con algunos de sus antiguos alumnos: caballeros de élite, un mago as e incluso un aventurero que ha alcanzado el rango más alto posible en el gremio. Pero, ¿por qué todos quieren su tutela? En lo que a él respecta, está claro que ya no lo necesitan. ¿Podrá Beryl estar a la altura de su nueva posición? ¿Y alguna vez podrá tener un momento de paz lejos de sus adorados alumnos?"
+  },
+  {
+    "name": "CLASSIC★STARS",
     "day": "viernes",
     "status": "Por estrenar",
     "link": "/anime/classic-stars",
@@ -10,13 +230,73 @@
     "description": ""
   },
   {
-    "name": "JUJUTSU KAISEN Kaigyoku, Gyokusetsu",
-    "day": "viernes",
+    "name": "WITCH WATCH",
+    "day": "sabado",
     "status": "Por estrenar",
-    "link": "/anime/jujutsu-kaisen-kaigyoku-gyokusetsu",
-    "image": "jujutsu-kaisen-kaigyoku-gyokusetsu.webp",
+    "link": "/anime/witch-watch",
+    "image": "witch-watch.webp",
     "airing": false,
-    "releaseDate": "2025-05-30",
+    "releaseDate": "2025-04-06",
+    "description": "La familia de Morihito Otogi desciende de una larga línea de familiares de ogros, y él tiene la fuerza sobrehumana para demostrarlo. Un día, su padre acude a él con la noticia que cambiará su vida: se convertirá en el familiar de su amiga de la infancia, la bruja adolescente Nico. Vivirá bajo el mismo techo que ella y la protegerá de cualquier cosa y de cualquier persona que intente hacerle daño. Mientras tanto, Nico está emocionada de poder vivir con el amor de su vida, incluso si su enamoramiento es unilateral: Morihito se toma tan en serio sus deberes de protegerla que cualquier romance será una batalla cuesta arriba. ¡Pero tiene todas las razones para ser serio, ya que Nico tiene una profecía de fatalidad sobre su cabeza!"
+  },
+  {
+    "name": "Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru",
+    "day": "sabado",
+    "status": "Por estrenar",
+    "link": "/anime/gorilla-no-kami-kara-kago-sareta-reijou",
+    "image": "gorilla-no-kami-kara-kago-sareta-reijou.webp",
+    "airing": false,
+    "releaseDate": "2025-04-06",
+    "description": "La historia se desarrolla en un mundo donde los jóvenes de 16 años reciben bendiciones de varios dioses animales. Sophia, la tímida hija de un noble, recibió la bendición del \"Dios Gorila\", dándole la capacidad de levantar más de 500 kg. Aunque todo lo que quiere es una vida pacífica, la gente la busca debido a su inmenso poder, lo que la lleva a ser buscada por los caballeros reales."
+  },
+  {
+    "name": "PRINCESS-SESSION ORCHESTRA",
+    "day": "sabado",
+    "status": "Por estrenar",
+    "link": "/anime/princess-session-orchestra",
+    "image": "princess-session-orchestra.webp",
+    "airing": false,
+    "releaseDate": "2025-04-06",
+    "description": ""
+  },
+  {
+    "name": "Maebashi Witches",
+    "day": "domingo",
+    "status": "Por estrenar",
+    "link": "/anime/maebashi-witches",
+    "image": "maebashi-witches.webp",
+    "airing": false,
+    "releaseDate": "2025-04-07",
+    "description": "La historia del anime, ambientada en la ciudad de Maebashi, en la prefectura de Gunma, trata sobre la madurez de cinco chicas de secundaria. Yuina Akagi, estudiante de primer año de secundaria, vive una vida cotidiana normal pero insatisfactoria. Un día, una misteriosa rana llamada Keroppe la recluta a ella y a otras cuatro chicas para convertirse en las \"Brujas de Maebashi\". De repente, el armario de una habitación se conecta a un espacio misterioso que lleva a las chicas a una floristería mágica donde cantan, bailan y hacen realidad los deseos de otras personas."
+  },
+  {
+    "name": "One Piece EGGHEAD",
+    "day": "domingo",
+    "status": "Por estrenar",
+    "link": "/anime/one-piece-egghead",
+    "image": "one-piece-egghead.webp",
+    "airing": false,
+    "releaseDate": "2025-04-07",
+    "description": ""
+  },
+  {
+    "name": "Umamusume: Cinderella Gray",
+    "day": "domingo",
+    "status": "Por estrenar",
+    "link": "/anime/umamusume-cinderella-gray",
+    "image": "umamusume-cinderella-gray.webp",
+    "airing": false,
+    "releaseDate": "2025-04-07",
+    "description": "Spin-off. Sigue a Oguri Cap durante su estancia en la Academia del Centro de Entrenamiento Kasamatsu y su viaje para convertirse en una legendaria amazona."
+  },
+  {
+    "name": "Lazarus",
+    "day": "domingo",
+    "status": "Por estrenar",
+    "link": "/anime/lazarus",
+    "image": "lazarus.webp",
+    "airing": false,
+    "releaseDate": "2025-04-07",
     "description": ""
   },
   {
@@ -27,27 +307,137 @@
     "image": "summer-pockets.webp",
     "airing": false,
     "releaseDate": "2025-04-07",
-    "description": "Hairi se encuentra empezando a adaptarse a la vida en esta isla, rodeado de una naturaleza mucho más exuberante que cualquier cosa que haya encontrado en la ciudad. El tiempo parece pasar casualmente en esta isla y, mientras lo hace, los recuerdos de algo nostálgico siguen regresando a él... Recuerdos de algo que había olvidado hace mucho tiempo."
+    "description": "Para ayudar a gestionar los efectos de su abuela recientemente fallecida, el protagonista Takahara Hairi viaja a Torishirojima durante sus vacaciones de verano.\n\nAl bajarse del ferry, ve a una chica solitaria parada en el muelle. Una chica que simplemente mira a lo lejos mientras su largo cabello ondea con el viento. Mira a la chica con total desconcierto, pero antes de darse cuenta, ya no la encuentra por ningún lado.\n\nHairi se encuentra empezando a adaptarse a la vida en esta isla, rodeado de una naturaleza mucho más exuberante que cualquier cosa que haya encontrado en la ciudad. El tiempo parece pasar casualmente en esta isla y, mientras lo hace, los recuerdos de algo nostálgico siguen regresando a él... Recuerdos de algo que había olvidado hace mucho tiempo."
   },
   {
-    "name": "Aharen-san wa Hakarenai",
+    "name": "Aharen-san wa Hakarenai second season",
+    "day": "domingo",
+    "status": "Por estrenar",
+    "link": "/anime/aharen-san-wa-hakarenai-second-season",
+    "image": "aharen-san-wa-hakarenai-second-season.webp",
+    "airing": false,
+    "releaseDate": "2025-04-07",
+    "description": "La historia sigue la vida diaria \"indescifrable\" de la breve y tranquila Reina Aharen y Raidou que se sienta a su lado en clase. Aharen no es tan bueno para medir la distancia entre las personas (o los límites personales), y Raidou inicialmente sintió cierta distancia entre ellos dos. Entonces, un día, cuando Raidou recogió el borrador que Aharen había dejado caer, la distancia entre ellos de repente se volvió incómodamente cercana.\n\nDe \"demasiado distante\" a \"demasiado cerca\" ... Aharen es simplemente impredecible."
+  },
+  {
+    "name": "#COMPASS 2.0－Sentou Setsuri Kaiseki System",
+    "day": "domingo",
+    "status": "Por estrenar",
+    "link": "/anime/compass-2-sentou-setsuri-kaiseki-system",
+    "image": "compass-2-sentou-setsuri-kaiseki-system.webp",
+    "airing": false,
+    "releaseDate": "2025-04-07",
+    "description": ""
+  },
+  {
+    "name": "Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Hodoite Shimau kara.",
+    "day": "domingo",
+    "status": "Por estrenar",
+    "link": "/anime/chuuzenji-sensei-mononoke-kougiroku",
+    "image": "chuuzenji-sensei-mononoke-kougiroku.webp",
+    "airing": false,
+    "releaseDate": "2025-04-07",
+    "description": "Esta historia tiene lugar antes de que el exorcista Kyogokudo abriera una librería de libros usados...\n\nNuestro escenario está en Tokio en 1948, justo después de la guerra. Kanna Kusakabe acababa de comenzar su segundo año en una escuela secundaria cuando conoció al nuevo profesor de idiomas, Akihiko Chuzenji.\n\nSiguen sucediendo cosas sobrenaturales misteriosas alrededor de Kanna. Una vez más, hoy Kanna abrirá las puertas de la sala de preparación de la biblioteca para buscar la ayuda del hosco Chuzenji-sensei que la espera adentro.\n\n¡Está a punto de comenzar un misterio sobrenatural de la escuela secundaria que presenta al improbable dúo entre un maestro y una chica de secundaria!"
+  },
+  {
+    "name": "Vigilante -Boku no Hero Academia ILLEGALS-",
+    "day": "domingo",
+    "status": "Por estrenar",
+    "link": "/anime/vigilante-boku-no-hero-academia-illegals",
+    "image": "vigilante-boku-no-hero-academia-illegals.webp",
+    "airing": false,
+    "releaseDate": "2025-04-07",
+    "description": "¡No todo el mundo necesita una licencia para luchar por la justicia!\n\nEn una sociedad con superpoderes, el mal ya no tiene nada de ordinario. Los héroes, entrenados y autorizados para proteger y defender al público contra los supervillanos, están por encima de todos los demás. Sin embargo, no todo el mundo puede ser un héroe, y hay quienes usarían sus poderes para servir al pueblo sin sanción legal. Pero ¿luchan por la justicia en las sombras o por razones que solo ellos conocen? Sea cual sea su motivo de lucha, se les llama... justicieros.\n\nKoichi Haimawari no pudo convertirse en un héroe oficial, por lo que usa su modesto Don para hacer buenas obras en su tiempo libre. Entonces, un día, un fatídico encuentro con algunos matones locales lo lleva a formar equipo con otros dos héroes improbables. Ninguno de ellos sabe realmente lo que está haciendo, pero tienen el coraje (o la estupidez) de intentarlo. Pero pronto descubren que luchar contra el mal requiere algo más que ser valiente..."
+  },
+  {
+    "name": "Zatsu Tabi -That's Journey-",
+    "day": "domingo",
+    "status": "Por estrenar",
+    "link": "/anime/zatsu-tabi-thats-journey",
+    "image": "zatsu-tabi-thats-journey.webp",
+    "airing": false,
+    "releaseDate": "2025-04-07",
+    "description": "La historia sigue a la mangaka aficionada Chika Suzugamori, quien, después de pasar por el rechazo de varios borradores por falta de inspiración, se dirige espontáneamente al norte para impulsarse en un viaje de autodescubrimiento."
+  },
+  {
+    "name": "APOCALYPSE HOTEL",
     "day": "lunes",
     "status": "Por estrenar",
-    "link": "/anime/aharen-san-wa-hakarenai",
-    "image": "aharen-san-wa-hakarenai.webp",
+    "link": "/anime/apocalypse-hotel",
+    "image": "apocalypse-hotel.webp",
     "airing": false,
-    "releaseDate": "2025-04-01",
-    "description": "¡El escenario es un estadio de béisbol de una liga profesional! Mucha gente se reúne allí todos los días para trabajar y reír juntos, y allí nace el drama humano: ¡es casi como un pueblo! Entonces, ¿por qué no convertirse en un 'residente' de ese pueblo? ¡Una comedia romántica llena de risas y lágrimas, dedicada a todos los involucrados en el béisbol profesional!"
+    "releaseDate": "2025-04-08",
+    "description": "La Tierra donde la humanidad ha desaparecido y la civilización ha colapsado."
   },
   {
-    "name": "HANA-Doll* -Reinterpretation of Flowering-",
+    "name": "Mobile Suit Gundam GQuuuuuuX",
+    "day": "lunes",
+    "status": "Por estrenar",
+    "link": "/anime/mobile-suit-gundam-gquuuuuux",
+    "image": "mobile-suit-gundam-gquuuuuux.webp",
+    "airing": false,
+    "releaseDate": "2025-04-08",
+    "description": "Amate Yuzuriha es una estudiante de secundaria que vive pacíficamente en una colonia espacial que flota en el espacio exterior.\n\nCuando conoce a un refugiado de guerra llamado Nyaan, Amate se ve envuelta en el deporte ilegal de duelo de mobile suit conocido como Clan Battle.\n\nBajo el nombre de \"Machu\", se lanza a una feroz batalla día tras día, pilotando el GQuuuuuuX. Entonces, un mobile suit Gundam no identificado perseguido tanto por la fuerza espacial como por la policía aparece ante ella, junto con su piloto, un niño llamado Shuji.\n\nAhora su mundo está a punto de entrar en una nueva era."
+  },
+  {
+    "name": "Shiunji-ke no Kodomotachi",
+    "day": "lunes",
+    "status": "Por estrenar",
+    "link": "/anime/shiunji-ke-no-kodomotachi",
+    "image": "shiunji-ke-no-kodomotachi.webp",
+    "airing": false,
+    "releaseDate": "2025-04-08",
+    "description": "El amor entre hermano y hermana. El amor entre el hombre y la mujer. Lo más prohibido es lo más inflexible. Los dos hijos y cinco hijas de la familia Shiunji brillan como gemas brillantes, cada uno con inteligencia y belleza a partes iguales. Y con el pedigrí de su rico padre a sus espaldas, ¿cómo no iban a ser la comidilla de la ciudad? El hijo mayor, Arata, ha pasado su vida sacudido por los caprichos de sus coloridas hermanas, pero un poco de burla no le impedirá valorar a su familia por encima de cualquier otra cosa. Pero cuando su hermana menor cumple quince años, su padre revela un secreto largamente escondido de los \"hermanos\" Shiunji y derriba el mundo de Arata..."
+  },
+  {
+    "name": "HANA‐Doll* -Reinterpretation of Flowering-",
     "day": "martes",
     "status": "Por estrenar",
-    "link": "/anime/hana-doll",
-    "image": "hana-doll.webp",
+    "link": "/anime/hana-doll-reinterpretation-of-flowering",
+    "image": "hana-doll-reinterpretation-of-flowering.webp",
     "airing": false,
     "releaseDate": "2025-04-09",
     "description": ""
+  },
+  {
+    "name": "Uchuujin Muumuu",
+    "day": "martes",
+    "status": "Por estrenar",
+    "link": "/anime/uchuujin-muumuu",
+    "image": "uchuujin-muumuu.webp",
+    "airing": false,
+    "releaseDate": "2025-04-09",
+    "description": "La historia de la serie sigue a MuuMuu, un extraterrestre cuya especie perdió a todos sus científicos e ingenieros en una guerra planetaria. Para recuperar la comprensión de su tecnología altamente avanzada, MuuMuu y sus amigos llegan a la Tierra, donde se estrellan en el apartamento de la estudiante universitaria Sakurako Umeyashiki y luego deciden estudiar los electrodomésticos comunes."
+  },
+  {
+    "name": "Ninja to Koroshiya no Futarigurashi",
+    "day": "miercoles",
+    "status": "Por estrenar",
+    "link": "/anime/ninja-to-koroshiya-no-futarigurashi",
+    "image": "ninja-to-koroshiya-no-futarigurashi.webp",
+    "airing": false,
+    "releaseDate": "2025-04-10",
+    "description": "Satoko Kusagakure, una ninja que abandonó su aldea con sus camaradas, se encuentra viviendo con Konoha, una chica de secundaria que trabaja como asesina en la ciudad. Satoko posee la habilidad de transformar objetos usando ninjutsu, lo que llama la atención de Konoha. Llegan a un acuerdo: Konoha le proporciona a Satoko un lugar para vivir a cambio de que Satoko la ayude a limpiar después de sus trabajos de asesinato.\n\nMientras se enfrentan a asesinos enviados por la aldea de Satoko, disfrutan de deliciosas comidas con el dinero ganado en trabajos de asesinato y navegan por el caos de su inusual situación de vida, la historia captura las conmovedoras pero caóticas vidas de estos dos improbables compañeros de habitación."
+  },
+  {
+    "name": "MOONRISE",
+    "day": "miercoles",
+    "status": "Por estrenar",
+    "link": "/anime/moonrise",
+    "image": "moonrise.webp",
+    "airing": false,
+    "releaseDate": "2025-04-10",
+    "description": "El destino de los pacíficos habitantes de la Tierra y de las fuerzas de resistencia en la Luna está en juego.\n\nCorre el año 2XXX. La humanidad ha establecido un gobierno mundial indulgente y todo, incluidas las vidas de las personas, está en manos de la red internacional de inteligencia artificial Sapientia y de sus decisiones lógicas. Sin embargo, el Proyecto de Desarrollo Lunar respaldado por Sapientia ha creado una grieta entre la Tierra, que sigue enviando basura y criminales a la Luna para mantener su propia paz, y la Luna, donde la gente se ve obligada a vivir en la pobreza, lo que da lugar a rumores de una guerra de independencia. Un día, el protagonista, Jack, se ve atrapado en un atentado terrorista y pierde a su familia a manos de los rebeldes lunares en uno de sus complots por la independencia. Jurando venganza, Jack decide convertirse en un explorador del ejército de la Tierra y dirigirse a la Luna con sus camaradas."
+  },
+  {
+    "name": "Teogonia",
+    "day": "jueves",
+    "status": "Por estrenar",
+    "link": "/anime/teogonia",
+    "image": "teogonia.webp",
+    "airing": false,
+    "releaseDate": "2025-04-11",
+    "description": "En la dura región conocida como las tierras fronterizas, los humanos deben librar una batalla interminable contra criaturas semihumanas que se acercan implacablemente a ellos, con la intención de apoderarse de sus tierras y de sus dioses. Un joven llamado Kai, que lucha para defender su aldea, sufre una lesión potencialmente mortal que le hace recuperar recuerdos de una vida pasada. Si no eres un portador guardián, es como si estuvieras jugando la vida en modo difícil... El nuevo conocimiento de Kai le da una nueva idea del injusto \"conjunto de reglas\" que gobierna el mundo que lo rodea. Una cosa está clara: para aquellos que no tienen un dios que les sirva de guardián, la vida es una lucha constante por la supervivencia. Así comienza la historia épica del ascenso de un joven a un vasto mundo lleno de magia, derramamiento de sangre y misterio."
   },
   {
     "name": "Hibi wa Yogiredo Meshi Umashi",
@@ -60,18 +450,28 @@
     "description": ""
   },
   {
-    "name": "Anime Sentai Daishikkaku",
+    "name": "mono",
+    "day": "viernes",
+    "status": "Por estrenar",
+    "link": "/anime/mono",
+    "image": "mono.webp",
+    "airing": false,
+    "releaseDate": "2025-04-12",
+    "description": "Satsuki Amamiya, miembro del Club de Fotografía de la preparatoria, se sentía deprimida por la graduación de su querido presidente. Sin embargo, su mejor amiga y compañera, An Kiriyama, la anima, y Satsuki decide dedicarse de nuevo a las actividades del club.\n\nLa cámara de 360 grados que Satsuki compró con entusiasmo en una subasta no ha llegado. An investiga al vendedor y descubre que vive muy cerca de la escuela.\n\nCuando Satsuki y An visitan la dirección del vendedor, encuentran una tienda de dulces. Conocen a la artista de manga Haruno Akiyama, quien les pide que modelen para su manga. Sakurako Shikishima, exmiembro del Club de Cine, se une al \"Club de Cinefoto\", que se fusionó con el Club de Fotografía.\n\nDeciden colaborar con Haruno en su entrevista, pero…"
+  },
+  {
+    "name": "Sentai Daishikkaku second season",
     "day": "sabado",
     "status": "Por estrenar",
-    "link": "/anime/anime-sentai-daishikkaku",
-    "image": "anime-sentai-daishikkaku.webp",
+    "link": "/anime/sentai-daishikkaku-second-season",
+    "image": "sentai-daishikkaku-second-season.webp",
     "airing": false,
     "releaseDate": "2025-04-13",
-    "description": "¡En verdad, los invasores fueron subyugados en un año, obligados a continuar produciendo un monstruo por semana para que los Rangers los aplastaran frente a sus adoradores fanáticos! Pero un monstruo ha tenido suficiente. ¡Algo tiene que cambiar! Se rebelará contra el poder de los Dragon Rangers y los destruirá a todos... ¡desde adentro!"
+    "description": "¿QUIÉN ES EL HÉROE... Y QUIÉN ES EL VILLANO?\n\nCuando el Monster Army invadió la Tierra hace trece años, ¡los Divine Dragon Rangers se levantaron para detenerlos! ¡Con la guerra en curso, estos grandes héroes son la última esperanza de la humanidad!\n\n...¿o son?\n\nEn verdad, los invasores fueron subyugados en un año, obligados a continuar produciendo un monstruo por semana para que los Rangers los aplastaran frente a sus adoradores fanáticos. Pero un monstruo ha tenido suficiente. ¡Algo tiene que cambiar! Se rebelará contra el poder de los Dragon Rangers y los destruirá a todos... ¡desde adentro!"
   },
   {
     "name": "VIRGIN PUNK",
-    "day": "viernes",
+    "day": "jueves",
     "status": "Por estrenar",
     "link": "/anime/virgin-punk",
     "image": "virgin-punk.webp",
