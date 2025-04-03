@@ -4,9 +4,7 @@
   "items": {
     "type": "object",
     "properties": {
-      "name": {
-        "type": "string"
-      },
+      "name": { "type": "string" },
       "day": {
         "type": "string",
         "enum": [
@@ -23,32 +21,13 @@
         "type": "string",
         "enum": ["En emisión", "Por estrenar", "Finalizado"]
       },
-      "link": {
-        "type": "string"
-      },
-      "image": {
-        "type": "string"
-      },
-      "airing": {
-        "type": "boolean"
-      },
-      "releaseDate": {
-        "type": "string",
-        "format": "date"
-      },
-      "description": {
-        "type": "string"
-      }
+      "link": { "type": "string" },
+      "image": { "type": "string" },
+      "airing": { "type": "boolean" },
+      "releaseDate": { "type": "string", "format": "date" },
+      "description": { "type": "string" }
     },
-    "required": [
-      "name",
-      "day",
-      "status",
-      "link",
-      "image",
-      "airing",
-      "releaseDate",
-      "description"
-    ]
+    "required": ["name", "day", "status", "link", "image", "airing"],
+    "additionalProperties": false
   }
 }
