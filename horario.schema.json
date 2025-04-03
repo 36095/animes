@@ -1,0 +1,56 @@
+{
+  "$schema": "https://raw.githubusercontent.com/36095/animes/refs/heads/main/horario.schema.json",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string"
+      },
+      "day": {
+        "type": "string",
+        "enum": [
+          "lunes",
+          "martes",
+          "miercoles",
+          "jueves",
+          "viernes",
+          "sabado",
+          "domingo"
+        ]
+      },
+      "status": {
+        "type": "string",
+        "enum": ["En emisión", "Por estrenar", "Finalizado"]
+      },
+      "link": {
+        "type": "string",
+        "format": "uri"
+      },
+      "image": {
+        "type": "string",
+        "format": "uri"
+      },
+      "airing": {
+        "type": "boolean"
+      },
+      "releaseDate": {
+        "type": "string",
+        "format": "date"
+      },
+      "description": {
+        "type": "string"
+      }
+    },
+    "required": [
+      "name",
+      "day",
+      "status",
+      "link",
+      "image",
+      "airing",
+      "releaseDate",
+      "description"
+    ]
+  }
+}
