@@ -1,5 +1,5 @@
 {
-  "$schema": "https://raw.githubusercontent.com/36095/animes/refs/heads/main/horario.schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
   "type": "array",
   "items": {
     "type": "object",
