@@ -24,12 +24,10 @@
         "enum": ["En emisión", "Por estrenar", "Finalizado"]
       },
       "link": {
-        "type": "string",
-        "format": "uri"
+        "type": "string"
       },
       "image": {
-        "type": "string",
-        "format": "uri"
+        "type": "string"
       },
       "airing": {
         "type": "boolean"
