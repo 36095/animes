@@ -4,13 +4,13 @@
     "day": "lunes",
     "status": "En emisión",
     "link": "https://ejemplo.com/anime1",
-    "image": "https://lh3.googleusercontent.com/d/11tJ_XOLrzwveX7mhsyZxCBxr2ilWEM22=w1000-rw?authuser=0"
+    "image": "Ballpark de Tsukamaete!.webp"
   },
   {
     "name": "Anime de ejemplo 2",
     "day": "martes",
     "status": "Por estrenar",
     "link": "https://ejemplo.com/anime2",
-    "image": "https://lh3.googleusercontent.com/d/1IfUW4lrDOAabYthrBKj3onaZ6baflVSn=w1000-rw?authuser=0"
+    "image": "Aru Majo ga Shinu Made.webp"
   }
 ]
