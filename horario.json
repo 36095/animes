@@ -1,16 +1,82 @@
 [
   {
-    "name": "Anime de ejemplo 1",
-    "day": "lunes",
-    "status": "En emisión",
-    "link": "https://ejemplo.com/anime1",
-    "image": "Ballpark de Tsukamaete!.webp"
+    "name": "CLASSIC☆STARS",
+    "day": "viernes",
+    "status": "Por estrenar",
+    "link": "/anime/classic-stars",
+    "image": "classic-stars.webp",
+    "airing": false,
+    "releaseDate": "2025-04-05",
+    "description": ""
   },
   {
-    "name": "Anime de ejemplo 2",
+    "name": "JUJUTSU KAISEN Kaigyoku, Gyokusetsu",
+    "day": "viernes",
+    "status": "Por estrenar",
+    "link": "/anime/jujutsu-kaisen-kaigyoku-gyokusetsu",
+    "image": "jujutsu-kaisen-kaigyoku-gyokusetsu.webp",
+    "airing": false,
+    "releaseDate": "2025-05-30",
+    "description": ""
+  },
+  {
+    "name": "Summer Pockets",
+    "day": "domingo",
+    "status": "Por estrenar",
+    "link": "/anime/summer-pockets",
+    "image": "summer-pockets.webp",
+    "airing": false,
+    "releaseDate": "2025-04-07",
+    "description": "Hairi se encuentra empezando a adaptarse a la vida en esta isla, rodeado de una naturaleza mucho más exuberante que cualquier cosa que haya encontrado en la ciudad. El tiempo parece pasar casualmente en esta isla y, mientras lo hace, los recuerdos de algo nostálgico siguen regresando a él... Recuerdos de algo que había olvidado hace mucho tiempo."
+  },
+  {
+    "name": "Aharen-san wa Hakarenai",
+    "day": "lunes",
+    "status": "Por estrenar",
+    "link": "/anime/aharen-san-wa-hakarenai",
+    "image": "aharen-san-wa-hakarenai.webp",
+    "airing": false,
+    "releaseDate": "2025-04-01",
+    "description": "¡El escenario es un estadio de béisbol de una liga profesional! Mucha gente se reúne allí todos los días para trabajar y reír juntos, y allí nace el drama humano: ¡es casi como un pueblo! Entonces, ¿por qué no convertirse en un 'residente' de ese pueblo? ¡Una comedia romántica llena de risas y lágrimas, dedicada a todos los involucrados en el béisbol profesional!"
+  },
+  {
+    "name": "HANA-Doll* -Reinterpretation of Flowering-",
     "day": "martes",
     "status": "Por estrenar",
-    "link": "https://ejemplo.com/anime2",
-    "image": "Aru Majo ga Shinu Made.webp"
+    "link": "/anime/hana-doll",
+    "image": "hana-doll.webp",
+    "airing": false,
+    "releaseDate": "2025-04-09",
+    "description": ""
+  },
+  {
+    "name": "Hibi wa Yogiredo Meshi Umashi",
+    "day": "viernes",
+    "status": "Por estrenar",
+    "link": "/anime/hibi-wa-yogiredo-meshi-umashi",
+    "image": "hibi-wa-yogiredo-meshi-umashi.webp",
+    "airing": false,
+    "releaseDate": "2025-04-12",
+    "description": ""
+  },
+  {
+    "name": "Anime Sentai Daishikkaku",
+    "day": "sabado",
+    "status": "Por estrenar",
+    "link": "/anime/anime-sentai-daishikkaku",
+    "image": "anime-sentai-daishikkaku.webp",
+    "airing": false,
+    "releaseDate": "2025-04-13",
+    "description": "¡En verdad, los invasores fueron subyugados en un año, obligados a continuar produciendo un monstruo por semana para que los Rangers los aplastaran frente a sus adoradores fanáticos! Pero un monstruo ha tenido suficiente. ¡Algo tiene que cambiar! Se rebelará contra el poder de los Dragon Rangers y los destruirá a todos... ¡desde adentro!"
+  },
+  {
+    "name": "VIRGIN PUNK",
+    "day": "viernes",
+    "status": "Por estrenar",
+    "link": "/anime/virgin-punk",
+    "image": "virgin-punk.webp",
+    "airing": false,
+    "releaseDate": "2025-06-27",
+    "description": ""
   }
 ]
