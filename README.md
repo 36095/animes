@@ -1,2 +1,2 @@
 # Readme
-Personal repo created to track some anime I'm watching
+Personal repo created to track some anime I'm watching.
